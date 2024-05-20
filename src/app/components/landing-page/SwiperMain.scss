@@ -1,0 +1,61 @@
+.landing-main-blue-swiper {
+  .swiper-button-next {
+    background-image: url("../../assets/Arrow/right.svg") !important;
+    background-size: auto !important;
+    background-repeat: no-repeat !important;
+    background-position: right top !important;
+    z-index: 10 !important;
+    width: 51px !important;
+    height: 52px !important;
+  }
+  .swiper-button-prev {
+    background-image: url("../../assets/Arrow/left.svg") !important;
+    background-repeat: no-repeat !important;
+    width: 51px !important;
+    height: 52px !important;
+    z-index: 10 !important;
+  }
+  .swiper-button-next:after {
+    visibility: hidden !important;
+  }
+  .swiper-button-prev:after {
+    visibility: hidden !important;
+  }
+  .swiper-button-prev {
+    position: absolute !important;
+    top: 50% !important;
+    left: 5% !important;
+    transform: translateY(-50% -50%) !important;
+    z-index: 10 !important;
+    cursor: pointer;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+  .swiper-button-next {
+    position: absolute !important;
+    top: 50% !important;
+    right: 5% !important;
+    transform: translateY(-50% -50%) !important;
+    z-index: 10 !important;
+    cursor: pointer;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+  }
+  .swiper-pagination-bullet {
+    width: 18px !important;
+    height: 18px !important;
+    background: #d23f50bd !important;
+    border-radius: 10px !important;
+  }
+  .swiper-pagination-bullet-active {
+    width: 52px !important;
+    height: 18px !important;
+    background: #d23f4f !important;
+    border-radius: 10px !important;
+  }
+  .swiper-pagination-horizontal {
+    bottom: 70px !important;
+  }
+}

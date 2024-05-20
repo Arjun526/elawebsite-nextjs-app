@@ -1,0 +1,215 @@
+// #swiper-outer-section {
+//   display: flex;
+//   //   justify-content: space-between;
+//   align-items: center;
+//   position: relative;
+
+//   .swiper-learn {
+//     font-size: 56px;
+//     font-family: "Urbane Rounded";
+//     font-weight: bolder;
+//     color: #000022;
+//   }
+//   .swiper-text-skill {
+//     font-size: 28px;
+//     max-width: 400px;
+//     line-height: 38px;
+//     padding: 1em 0;
+//     font-family: "Quicksand";
+//     color: #000022;
+//   }
+//   .img-section {
+//     background: #fed9936a;
+//     border-radius: 50%;
+//     padding: 1.8rem;
+//     position: relative;
+//     .card-Book {
+//       display: flex;
+//       justify-content: center;
+//       align-items: center;
+//       flex-direction: column;
+//       gap: 5px;
+//       width: 109px;
+//       min-height: 141px;
+//       background: #fff;
+//       border-radius: 12px;
+//       position: absolute;
+//       top: 10%;
+//       left: 80%;
+//       .icon-text {
+//         font-family: "Urbane Rounded";
+//         font-size: 9px;
+//         font-weight: 600;
+//         color: #242424;
+//       }
+//       .book-number {
+//         font-weight: 300;
+//         font-size: 11px;
+//         font-family: "Urbane Rounded";
+//         letter-spacing: 0px;
+//         color: #20a1ed;
+//       }
+//     }
+//     .card-note {
+//       width: 109px;
+//       height: 148px;
+//       background: #fff;
+//       border-radius: 12px;
+//       gap: 5px;
+//       display: flex;
+//       justify-content: center;
+//       align-items: center;
+//       flex-direction: column;
+//       position: absolute;
+//       top: 25%;
+//       right: 92%;
+//       .icon-text {
+//         font-family: "Urbane Rounded";
+//         font-size: 9px;
+//         font-weight: 600;
+//         color: #242424;
+//       }
+//       .book-number {
+//         font-weight: 300;
+//         font-size: 11px;
+//         font-family: "Urbane Rounded";
+//         letter-spacing: 0px;
+//         color: #20a1ed;
+//       }
+//     }
+//     .card-progress {
+//       width: 80%;
+//       max-width: 294px;
+//       height: 140px;
+//       background: #fff;
+//       border-radius: 12px;
+//       position: absolute;
+//       top: 85%;
+//       left: 50%;
+//       transform: translate(-50%, -50%);
+//       padding: 10px 15px;
+//       .progress-heder {
+//         display: flex;
+//         justify-content: space-between;
+//         align-items: center;
+//         .progress-text {
+//           font-size: 8px;
+//           font-weight: 300;
+//           font-family: "Urbane Rounded";
+//           color: #242424;
+//           margin: 0.5rem 0;
+//         }
+//         .progress-btn {
+//           max-width: 63px;
+//           height: 24px;
+//           background: transparent
+//             linear-gradient(139deg, #fdc048 0%, #ff9861 100%);
+//           border-radius: 8px;
+//           color: #fff;
+//           font-size: 7px;
+//           font-family: "Urbane Rounded";
+//           border: none;
+//           outline: none;
+//         }
+//       }
+//       .card-progress-heading {
+//         text-align: left;
+//         font-size: 14px;
+//         font-weight: 300;
+//         font-family: "Urbane Rounded";
+//         color: #242424;
+//         text-transform: uppercase;
+//       }
+//       .progress-content {
+//         font-size: 10px;
+//         font-weight: 300;
+//         font-family: "Urbane Rounded";
+//         color: #242424;
+//         margin: 0.5rem 0;
+//         max-width: 240px;
+//         opacity: 0.5;
+//         line-height: 16px;
+//       }
+//       .progress-bar-section {
+//         display: flex;
+//         flex-direction: column;
+//         gap: 15px;
+//         .progress-bar-text {
+//           font-size: 10px;
+//           font-family: "Urbane Rounded";
+//           font-weight: 300;
+//           color: #28a745;
+//         }
+//         .bar-progress {
+//           max-width: 268px;
+//           height: 7px;
+//           background: #e9f6ec;
+//           border-radius: 200px;
+//         }
+//         .bar-inner-sec {
+//           background: #28a745;
+//           width: 82px;
+//           height: 7px;
+//           border-radius: 200px;
+//         }
+//       }
+//     }
+//   }
+//   .btn-active {
+//     display: flex;
+//     position: absolute;
+//     gap: 10px;
+//     top: 90%;
+//     left: 40%;
+//     transform: translateY(-50% -50%);
+//     .active-1 {
+//       width: 52px;
+//       height: 18px;
+//       background: #d23f4f;
+//       border-radius: 10px;
+//     }
+//     .active-2 {
+//       width: 18px;
+//       height: 18px;
+//       background: #d23f4f;
+//       border-radius: 10px;
+//       opacity: 0.2;
+//     }
+//   }
+// }
+// @media (max-width: 768px) {
+//   #container {
+//     flex-direction: column;
+//     align-items: center;
+//   }
+
+//   .img-section {
+//     margin-bottom: 2rem;
+//   }
+
+//   .btn-active {
+//     flex-direction: row;
+//     margin: 1rem 0;
+//     gap: 0.5rem;
+//     top: 85%;
+//     left: 50%;
+//     transform: translateX(-50%);
+//   }
+// }
+
+// @media (max-width: 480px) {
+//   .card-progress {
+//     width: 90%;
+//   }
+// }
+// .outerSection {
+//   max-width: 1280px;
+//   background: #288fc32d;
+//   border-radius: 40px;
+//   min-height: 496px;
+//   margin: 50px auto;
+//   display: flex;
+//   justify-content: space-evenly;
+//   align-items: center;
+//   position: relative;
+// }

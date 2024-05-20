@@ -1,0 +1,91 @@
+#outer-section-refund {
+  margin-top: 90px;
+  padding: 20px;
+  max-width: 1278px;
+  margin: auto;
+  .outer-section-refund-return {
+    background-color: #288fc314;
+    border-radius: 34px;
+    color: #fff;
+    width: 100%;
+    max-width: 1278px;
+    margin: auto;
+    padding: 25px 30px;
+  }
+.refund-anchor{
+  text-decoration: none;
+  color: #000022;
+}
+.refund-anchor:hover{
+  text-decoration: underline;
+  color: #288fc3;
+}
+  .refund-inner-text {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 22px;
+  }
+  .refund-text {
+    color: #000022;
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+    font-family: "Quicksand";
+    font-weight: 600;
+    width: 100%;
+  }
+  .refund-heading {
+    font-family: "Quicksand";
+    color: #000022;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 40px;
+    padding-bottom: 10px;
+  }
+  .need-help-text {
+    color: #000022;
+    font-size: 20px;
+    text-align: left;
+    line-height: 30px;
+    font-family: "Quicksand";
+    font-weight: 500;
+  }
+  .heding-text {
+    text-align: left;
+    font-size: 42px;
+    font-weight: bold;
+    font-family: "Urbane Rounded";
+    color: #000022;
+    margin: 15px 0;
+  }
+  .heding-section {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Quicksand";
+    margin-top: 80px;
+    .home {
+      color: #288fc3;
+    }
+  }
+  .link-home {
+    text-decoration: none;
+  }
+  .link-home:hover {
+    text-decoration: underline;
+    color: #288fc3;
+  }
+
+  @media only screen and (max-width: 768px) {
+    .refund-text {
+      font-size: 16px;
+      line-height: 24px;
+    }
+
+    .refund-heading {
+      font-size: 24px;
+      line-height: 34px;
+    }
+  }
+}
