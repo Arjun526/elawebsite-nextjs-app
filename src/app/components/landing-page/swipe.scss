@@ -1,0 +1,119 @@
+@font-face {
+  font-family: "Urbane Rounded";
+  src: url("../../Fonts/UrbaneRounded-Bold.woff2") format("woff2"),
+    url("../../Fonts/UrbaneRounded-Medium.woff2") format("woff2");
+}
+#container {
+  max-width: 1280px;
+  background: #288fc32d;
+  border-radius: 40px;
+  min-height: 496px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+  margin-top: 110px;
+  .swiper-text-headings {
+    display: flex;
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    gap: 30px;
+  }
+  .swiper-learn {
+    font-size: 56px;
+    font-family: "Urbane Rounded";
+    font-weight: bold;
+    color: #000022;
+    max-width: 550px;
+  }
+  .swiper-text-skill {
+    font-size: 28px;
+    max-width: 450px;
+    line-height: 38px;
+    // padding: 1em 0;
+    font-family: "Quicksand";
+    font-weight: 300;
+    color: #000022;
+    text-align: start;
+  }
+  .loti-animation {
+    height: 350px;
+    width: 400px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    .img-content {
+      height: 370px;
+      width: 500px;
+    }
+  }
+}
+@media (max-width: 768px) {
+  #container {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    .swiper-text-headings {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      .swiper-learn {
+        font-size: 40px;
+        margin-top: 10px;
+        text-align: center;
+      }
+      .swiper-text-skill {
+        font-size: 20px;
+        text-align: center;
+      }
+    }
+    .loti-animation {
+      // display: flex;
+      // align-items: center;
+      // justify-content: center;
+      margin: auto;
+
+      .img-content {
+        height: 250px;
+        width: 300px;
+      }
+    }
+  }
+
+  .img-section {
+    margin-bottom: 10px;
+  }
+
+  .btn-active {
+    flex-direction: row;
+    margin: 1rem 0;
+    gap: 0.5rem;
+    top: 85%;
+    left: 50%;
+    transform: translateX(-50%);
+  }
+}
+
+@media (max-width: 480px) {
+  .card-progress {
+    width: 90%;
+  }
+  .swiper-text-skill {
+    font-size: 16px;
+    text-align: center;
+  }
+}
+.outerSection {
+  max-width: 1280px;
+  background: #288fc32d;
+  border-radius: 40px;
+  min-height: 496px;
+  margin: 50px auto;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  position: relative;
+}

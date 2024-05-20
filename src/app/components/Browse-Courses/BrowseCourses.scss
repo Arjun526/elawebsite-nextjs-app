@@ -1,0 +1,50 @@
+#Browse-Courses {
+  margin-top: 5%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .background-text-blue {
+    position: relative;
+    height: 350px;
+    @media (max-width: 768px) {
+      height: 180px;
+    }
+    @media (max-width: 576px) {
+      height: 120px;
+    }
+  }
+  .background-text {
+    position: absolute;
+    top: 60%;
+    left: 15%;
+    transform: translateY(-50%);
+    font-size: 42px;
+    font-weight: 300;
+    line-height: 51px;
+    font-family: "Urbane Rounded";
+    color: #000022;
+    @media (max-width: 768px) {
+      font-size: 27px;
+      line-height: 45px;
+      top: 60%;
+      left: 13%;
+      text-align: center;
+    }
+    @media (max-width: 576px) {
+      font-size: 20px;
+      line-height: 25px;
+      text-align: center;
+      top: 60%;
+      left: 5%;
+    }
+  }
+  // }
+  .main-card-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    flex-wrap: wrap;
+  }
+}

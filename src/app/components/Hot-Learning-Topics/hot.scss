@@ -1,0 +1,202 @@
+@font-face {
+  font-family: "Urbane Rounded";
+  src: url("../../Fonts/UrbaneRounded-Medium.woff2") format("woff2");
+}
+#Hot-Learning-Topics {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  .heading-text {
+    font-size: 42px;
+    line-height: 51px;
+    font-weight: 300;
+    font-family: "Urbane Rounded";
+    color: #000022;
+    .background-red-anim {
+      position: relative;
+    }
+    .red-text-heading {
+      position: absolute;
+      top: 40%;
+      left: 30%;
+      @media (max-width: 576px) {
+        top: 35%;
+        left: 17%;
+      }
+    }
+  }
+  .card-section {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    gap: 30px;
+    .flip-card {
+      background-color: transparent;
+      cursor: pointer;
+      .flip-card-inner {
+        position: relative;
+        width: 285px;
+        height: 361px;
+        transition: transform 0.6s;
+        border-radius: 16px;
+        transform-style: preserve-3d;
+        backface-visibility: hidden;
+        -moz-backface-visibility: hidden;
+        .flip-card-front {
+          // background: linear-gradient(to left, #4364f7, #6fb1fc);
+          background: #fff;
+          color: black;
+          z-index: 2;
+          padding: 10px;
+          box-shadow: inset 0px -3px 0px #0000001a;
+          border-radius: 16px;
+          width: 298px;
+          padding: 15px;
+          .card-math-inner {
+            // padding: 10px;
+            .card-math-bg {
+              border-radius: 12px;
+            }
+            .math-text {
+              text-align: center;
+              font-size: 16px;
+              font-weight: 300;
+              font-family: "Urbane Rounded";
+              color: #151313;
+              padding: 15px 0;
+            }
+          }
+        }
+        .flip-card-back {
+          box-shadow: rgba(0, 0, 0, 0.09) 5px -3px 12px;
+          transform: rotateX(180deg);
+          z-index: 1;
+          display: flex;
+          align-items: center;
+          border-radius: 16px;
+          padding: 7px;
+          .flip-card-back-main {
+            text-align: start;
+            padding: 15px;
+            max-width: 290px;
+            .back-heading {
+              font-size: medium;
+              text-align: left;
+              font-size: 17px;
+              font-family: "Urbane Rounded";
+              line-height: 20px;
+              color: #242424;
+              padding-top: 10px;
+            }
+            .basic-text {
+              font-size: 10px;
+              font-weight: 300;
+              font-family: "Urbane Rounded";
+              line-height: 16px;
+              letter-spacing: 0px;
+              color: #242424;
+              opacity: 0.8;
+              padding: 10px 0;
+            }
+            .show-all {
+              font-size: 11px;
+              font-weight: 300;
+              font-family: "Urbane Rounded";
+              color: #242424;
+              opacity: 0.8;
+            }
+            .course-outcome {
+              font-size: 16px;
+              font-family: "Urbane Rounded";
+              font-weight: 300;
+              color: #242424;
+              padding: 10px 0;
+            }
+            .liest-section {
+              font-size: 10px;
+              line-height: 17px;
+              font-family: "Urbane Rounded";
+              font-weight: 300;
+              color: #242424;
+              opacity: 0.8;
+            }
+            .price-main {
+              display: flex;
+              justify-content: space-between;
+              align-items: center;
+              padding: 10px 0;
+              .price-inner-sec {
+                display: flex;
+                align-items: center;
+                font-size: 26px;
+                font-weight: bold;
+                line-height: 31px;
+                font-family: "Urbane Rounded";
+                color: #242424;
+              }
+              .include-gst {
+                align-items: end;
+                font-size: 9px;
+                font-weight: 300;
+                line-height: 14px;
+                font-family: "Urbane Rounded";
+                color: #242424;
+                opacity: 0.8;
+                padding: 7px;
+              }
+              .btn-footer {
+                background: transparent
+                  linear-gradient(129deg, #48cdfd 0%, #7661ff 100%);
+                box-shadow: inset 0px -3px 0px #0000001a;
+                border-radius: 10px;
+                padding: 15px 30px;
+                outline: none;
+                border: transparent;
+                color: #fff;
+              }
+            }
+          }
+        }
+      }
+    }
+    .flip-card:focus {
+      outline: 0;
+    }
+
+    .flip-card:hover .flip-card-inner,
+    .flip-card:focus .flip-card-inner {
+      transform: rotateX(180deg);
+    }
+
+    .flip-card-front,
+    .flip-card-back {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+    }
+  }
+  @media (max-width: 790px) {
+    .heading-text {
+      font-size: 36px;
+      line-height: 45px;
+    }
+  }
+
+  @media (max-width: 576px) {
+    .heading-text {
+      font-size: 26px;
+      line-height: 35px;
+    }
+
+    .background-red-anim {
+      .red-bg {
+        width: 100%;
+      }
+    }
+    .red-text-heading {
+      top: 20%;
+    }
+  }
+}
