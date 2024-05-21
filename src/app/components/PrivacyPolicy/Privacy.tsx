@@ -32,7 +32,7 @@ const Privacy = () => {
               <div className="privacy-text-heading">
                 Scope of this Privacy Policy
               </div>
-              <ul>
+              <ul className="unordered-list">
                 <li>
                   Our privacy policy has been designed and created to ensure
                   those affiliated with our commitment and realization of our
@@ -84,7 +84,7 @@ const Privacy = () => {
               <div className="privacy-text-heading">
                 Information that we may collect or receive{" "}
               </div>
-              <ul>
+              <ul className="unordered-list">
                 <li>
                   When you register for an account, you may provide us with a
                   valid email address and may provide us with additional
@@ -103,7 +103,7 @@ const Privacy = () => {
               <div className="privacy-text-heading">
                 How we use information{" "}
               </div>
-              <ul>
+              <ul className="unordered-list">
                 <li>
                   We use the Information gathered from you for the purpose of
                   analytics and continuous improvement of our Website, Products
@@ -127,7 +127,7 @@ const Privacy = () => {
               <div className="privacy-text-heading">
                 How you can protect your information{" "}
               </div>
-              <ul>
+              <ul className="unordered-list">
                 <li>
                   If you would like to disable our access to any passive
                   information, we receive from the use of various technologies,
@@ -153,7 +153,7 @@ const Privacy = () => {
               <div className="privacy-text-heading">
                 Links to Other Websites
               </div>
-              <ul>
+              <ul className="unordered-list">
                 <li>
                   Our website does contain links to other websites. The Digitide
                   Education Private Limited does not claim nor accept
@@ -230,7 +230,6 @@ const Privacy = () => {
           </div>
         </div>
       </div>
-      {/* <Footer/> */}
     </div>
   );
 };
