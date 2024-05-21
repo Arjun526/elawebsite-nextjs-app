@@ -34,7 +34,7 @@ const HotLearningTopics: React.FC = () => {
                     <div className="back-heading">About the course</div>
                     <div className="basic-text">
                       The basis for education in the last millennium was
-                      "reading, writing, and arithmetic" now it is reading,
+                      reading, writing, and arithmetic now it is reading,
                       writing, and computing. Learning to program is an
                       essential part of the education of every student, not just
                       in the sciences
@@ -75,8 +75,8 @@ const HotLearningTopics: React.FC = () => {
                 <div className="flip-card-back-main">
                   <div className="back-heading">About the course</div>
                   <div className="basic-text">
-                    The basis for education in the last millennium was "reading,
-                    writing, and arithmetic" now it is reading, writing, and
+                    The basis for education in the last millennium was reading,
+                    writing, and arithmetic now it is reading, writing, and
                     computing. Learning to program is an essential part of the
                     education of every student, not just in the sciences
                   </div>

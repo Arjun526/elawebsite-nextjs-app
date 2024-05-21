@@ -2,15 +2,11 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import imageicon from "./img/Group 77256.svg";
 import "./footer.scss";
-import Lottie from "react-lottie";
+import Lottie from "lottie-react";
 import rainbow from "../footer/img/Rainbow.json";
 import Link from "next/link";
 import Image from "next/image";
 
-const options = {
-  animationData: rainbow,
-  loop: true,
-};
 const Footer: React.FC = () => {
   const scrollToTop = () => {
     window.scrollTo({
@@ -70,7 +66,7 @@ const Footer: React.FC = () => {
               <div className="text10">support@elalearn.com</div>
             </div>
             <div className="rainbow">
-              <Lottie options={options} style={{ width: "350px" }} />;
+              <Lottie animationData={rainbow} style={{ width: "350px" }} />;
             </div>
           </div>
           <div className="Digitide">

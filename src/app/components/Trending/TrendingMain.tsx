@@ -34,7 +34,7 @@ const TrendingMain: React.FC = () => {
     <div id="trending-card">
       <div className="background-yellow">
         <Lottie animationData={yellow} loop={true} />
-        <div className="explore-heading">Explore What's Trending</div>
+        <div className="explore-heading">Explore What&apos;s Trending</div>
       </div>
       <div className="trending-card-main">
         {datas.map((item, index) => (

@@ -1,4 +1,5 @@
 import "./Card.scss";
+import Image from "next/image";
 interface MyProps {
   learner: string;
   user: string;
@@ -39,7 +40,7 @@ const Card: React.FC<MyProps> = ({
                   index === 0 ? "" : index === 1 ? "#288FC3" : "#D23F4F",
               }}
             >
-              <img src={icons} alt="icon" />
+              <Image src={icons} alt="icon" />
             </div>
             <div className="math-text">
               <div className="text-heder">{topics}</div>
@@ -57,7 +58,7 @@ const Card: React.FC<MyProps> = ({
                   index === 0 ? "" : index === 1 ? "#288FC3" : "#D23F4F",
               }}
             >
-              <img src={icons2} alt="icon" />
+              <Image src={icons2} alt="icon" />
             </div>
             <div className="math-text">
               <div className="text-heder">{topic}</div>

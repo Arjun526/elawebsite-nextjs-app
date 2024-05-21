@@ -35,7 +35,7 @@ const Terms: React.FC = () => {
             <div className="terms-text">
               The Agreement: The use of this website, products and services
               provided by Digitide Education Private Limited are subject to the
-              following TERMS & CONDITIONS (Here in after referred to as "Terms
+              following TERMS & CONDITIONS (Here in after referred to as Terms
               of Service) all parts, sites, subsites and sub-parts of which are
               specifically incorporated by reference here together with the
               Privacy Policy.
@@ -45,8 +45,8 @@ const Terms: React.FC = () => {
               <Link href="https://elalearn.com" className="terms-anchor">
                 elalearn.com
               </Link>{" "}
-              ("Website"), all pages on the Website and any products and
-              services provided by or on this Website (Products & Services)
+              (Website), all pages on the Website and any products and services
+              provided by or on this Website (Products & Services)
             </div>
             <div className="terms-text">
               By accessing either directly or through a hyperlink, to the
@@ -65,22 +65,22 @@ const Terms: React.FC = () => {
             <div className="terms-text">
               <div className="terms-text-heading">1. Definitions</div>
               The parties referred to in these Terms of Service shall be defined
-              as follows: a{")"} Owner. Us, We: "Digitide Education Private
-              Limited" (Hereinafter referred to as "DEPL"), is the creator,
+              as follows: a{")"} Owner. Us, We: Digitide Education Private
+              Limited (Hereinafter referred to as DEPL), is the creator,
               operator and publisher of this Website, the featured products and
               the services available to users. Digitide Education Private
               Limited with CIN No: U80902KA2015PTC078147 has its Registered
               Office at #365, Upper Palace Orchards, 14th Cross, Sadashivanagar.
               Bengaluru 560080. We, Our, Ours and other first-person pronouns
-              will refer to "DEPL" as well as all its employees and affiliates
-              (b) You, the User, the client: You as the user of this Website,
-              will be referred to throughout these Terms of Service with
+              will refer to DEPL as well as all its employees and affiliates (b)
+              You, the User, the client: You as the user of this Website, will
+              be referred to throughout these Terms of Service with
               second-person pronouns such as You, Your, Yours or as User or
-              Client. For the purpose of the Terms of Service, the Terms "User"
-              or You shall mean any natural or legal person who is accessing the
-              Website. The term "Your or Yours" shall be construed accordingly.
-              c{")"} Parties: Collectively both parties to these Terms of
-              Service "DEPL" & "User" will be jointly referred to as "Parties".
+              Client. For the purpose of the Terms of Service, the Terms User or
+              You shall mean any natural or legal person who is accessing the
+              Website. The term Your or Yours shall be construed accordingly. c
+              {")"} Parties: Collectively both parties to these Terms of Service
+              DEPL & User will be jointly referred to as Parties.
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">2. Assent & Acceptance</div>
@@ -107,8 +107,8 @@ const Terms: React.FC = () => {
               time. DEPL does not screen or censor the users who register for
               access to this Website. You assume all risks associated with
               dealing with other users with whom you come in contact through the
-              website. You agree to "The fair use policy of our products and
-              services" and you also agree to use the products/services only for
+              website. You agree to The fair use policy of our products and
+              services and you also agree to use the products/services only for
               lawful purposes without any discrimination whatsoever, and without
               infringing the rights or restricting the use of this website by
               any third party.
@@ -121,12 +121,12 @@ const Terms: React.FC = () => {
               use of the Website or Services, such information may include, but
               is not limited to documentation, data or information wholly
               developed or in some cases collected/created and further developed
-              by "DEPL" and any other materials which may assist you in the use
-              of the Website, Products & Services. DEPL grants you only a
-              limited, non-exclusive, non-transferable and revocable license to
-              use our material solely in connection with the use of the Website,
-              our products & services. The Materials provided by DEPL, may not
-              in whatsoever form be used for any other purpose and this license
+              by DEPL and any other materials which may assist you in the use of
+              the Website, Products & Services. DEPL grants you only a limited,
+              non-exclusive, non-transferable and revocable license to use our
+              material solely in connection with the use of the Website, our
+              products & services. The Materials provided by DEPL, may not in
+              whatsoever form be used for any other purpose and this license
               terminates upon your cessation of use of the Website or
               Products/Services at the termination of these Terms of Service.
               You agree not to collect the contact information of other Users
@@ -142,7 +142,7 @@ const Terms: React.FC = () => {
               You agree that the Website and all Products & Services provided on
               this Website are the property of DEPL, including all copyrights,
               trademarks, trade secrets, patents and other intellectual property
-              "DEPL 10 deg You agree that DEPL owns all rights, titles, and
+              DEPL 10 deg You agree that DEPL owns all rights, titles, and
               interests in and to DEPL IP and that you will not use the DEPL IP
               for any unlawful or infringing purposes. You agree not to
               reproduce or distribute the DEPL IP in any way, including
@@ -152,34 +152,34 @@ const Terms: React.FC = () => {
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">6 USER Obligations</div>
-              To register and become a "member" of the Website, you must be 18
+              To register and become a member of the Website, you must be 18
               years of age and above to enter into and form a legally binding
               contract. In addition, you must be in good standing and not an
-              individual who has been previously barred from receiving DEPL's
-              Services under the laws and statutes of India or other applicable
-              jurisdictions. At DEPL our priority is to ensure the safety and
-              privacy of all its visitors, users, and members, especially that
-              of children. Therefore, it is imperative that the parents of any
-              children under the age of 13 who permit their child or children
-              access to the Digitide education Website, Products & Services or
-              any related platform must create an account on behalf of their
-              children, which will certify that the individual creating the
-              account is of 18 years of age or above and as such, the parent or
-              legal guardian of any child or children registered under the
+              individual who has been previously barred from receiving
+              DEPL&apos;s Services under the laws and statutes of India or other
+              applicable jurisdictions. At DEPL our priority is to ensure the
+              safety and privacy of all its visitors, users, and members,
+              especially that of children. Therefore, it is imperative that the
+              parents of any children under the age of 13 who permit their child
+              or children access to the Digitide education Website, Products &
+              Services or any related platform must create an account on behalf
+              of their children, which will certify that the individual creating
+              the account is of 18 years of age or above and as such, the parent
+              or legal guardian of any child or children registered under the
               account should access and monitor the said account. As the creator
               of the account, the parent is taking responsibility and thereby
               granting permission for his/her child or children to access the
               various Products & Services provided, including, but not limited
               to, message boards, email, and/or instant messaging. It is the
-              parent's and/or legal guardian's responsibility to determine
-              whether any of the Services and/or content provided are
+              parent&apos;s and/or legal guardian&apos;s responsibility to
+              determine whether any of the Services and/or content provided are
               age-appropriate for his/her child. DEPL does not knowingly collect
               personally identifiable information from children under the age of
               thirteen (13) without verifiable parental consent. If it is
               determined that such information has been inadvertently collected
               on anyone under the age of thirteen (13), we shall immediately
               take the necessary steps to ensure that such information is
-              deleted from our system's database. Anyone under the age of
+              deleted from our system&apos;s database. Anyone under the age of
               thirteen (13) must seek and obtain parent or guardian permission
               to use this website. As a user of this Website, Products &
               Services, you may be asked to register with us, when you do so,
@@ -210,7 +210,7 @@ const Terms: React.FC = () => {
               Should you register for any of the Paid Services on this Website
               or purchase any product or service on this website, you agree to
               pay us the specific monetary amounts required for that product or
-              services. These monetary amounts ("Fees") will be described to you
+              services. These monetary amounts (Fees) will be described to you
               during process of purchase/registration/confirmation whichever is
               suitable for the product or service. The final amount required for
               payment will be shown to you immediately prior to purchase.
@@ -231,41 +231,41 @@ const Terms: React.FC = () => {
               agree not to use the Website, Products & Services in any way that
               could damage the Website, Products & Services or DEPL. We further
               agree not to use the Website, Products & Services To harass, abuse
-              or threaten others or otherwise violate any person's legal rights:
-              To violate any intellectual property rights of DEPL, DEPL IP or
-              any third party: To upload or otherwise disseminate any computer
-              viruses or other software that may damage the property of DEPL or
-              any others; To perpetrate fraud: To engage in or create any
-              unlawful gambling, sweepstakes, or pyramid scheme; To publish or
-              distribute any content that is obscene or defamatory material; To
-              publish or distribute any material that incites violence, hate, or
-              discrimination towards any group; To unlawfully gather information
-              about others. You are further prohibited from using the Website,
-              Products & Services or any of its content: For any unlawful
-              purpose; To solicit others to perform or participate in any
-              unlawful acts: To infringe on any third party's intellectual
-              property or proprietary rights, or rights of publicity or privacy,
-              whether knowingly or unknowingly: To violate any local, state,
-              central, national or international law, statute, ordinance or
-              regulation; To harass, abuse, insult, harm, defame, slander,
-              disparage, intimidate, or discriminate based on gender, age, race,
-              religion, sexual orientation, ethnicity, national origin, or
-              disability:: To submit false or misleading information or any
-              content which is defamatory, libellous, threatening, unlawful, or
-              harassing. indecent, abusive, obscene, lewd and lascivious or
-              pornographic, or exploit minors in any way or assists in human
-              trafficking or content that would violate rights of publicity
-              and/or privacy or that would violate any law; To upload or
-              transmit viruses or any other type of malicious code that will or
-              may be used in any way that will affect the functionality or
-              operation of the Service or any related website, other websites or
-              the internet, To collect or track the personal information of
-              others; To damage, disable, overburden, or impair the Website,
-              Products & Services or any other party's use of the Website,
-              Products & Services, To spam, phish, pharm, pretext, spider,
-              crawl, or scrape, For any obscene or immoral purpose; To Interfere
-              with or circumvent the security features of the Service or any
-              related website, other websites, or internet; To personally
+              or threaten others or otherwise violate any person&apos;s legal
+              rights: To violate any intellectual property rights of DEPL, DEPL
+              IP or any third party: To upload or otherwise disseminate any
+              computer viruses or other software that may damage the property of
+              DEPL or any others; To perpetrate fraud: To engage in or create
+              any unlawful gambling, sweepstakes, or pyramid scheme; To publish
+              or distribute any content that is obscene or defamatory material;
+              To publish or distribute any material that incites violence, hate,
+              or discrimination towards any group; To unlawfully gather
+              information about others. You are further prohibited from using
+              the Website, Products & Services or any of its content: For any
+              unlawful purpose; To solicit others to perform or participate in
+              any unlawful acts: To infringe on any third party&apos;s
+              intellectual property or proprietary rights, or rights of
+              publicity or privacy, whether knowingly or unknowingly: To violate
+              any local, state, central, national or international law, statute,
+              ordinance or regulation; To harass, abuse, insult, harm, defame,
+              slander, disparage, intimidate, or discriminate based on gender,
+              age, race, religion, sexual orientation, ethnicity, national
+              origin, or disability:: To submit false or misleading information
+              or any content which is defamatory, libellous, threatening,
+              unlawful, or harassing. indecent, abusive, obscene, lewd and
+              lascivious or pornographic, or exploit minors in any way or
+              assists in human trafficking or content that would violate rights
+              of publicity and/or privacy or that would violate any law; To
+              upload or transmit viruses or any other type of malicious code
+              that will or may be used in any way that will affect the
+              functionality or operation of the Service or any related website,
+              other websites or the internet, To collect or track the personal
+              information of others; To damage, disable, overburden, or impair
+              the Website, Products & Services or any other party&apos;s use of
+              the Website, Products & Services, To spam, phish, pharm, pretext,
+              spider, crawl, or scrape, For any obscene or immoral purpose; To
+              Interfere with or circumvent the security features of the Service
+              or any related website, other websites, or internet; To personally
               threaten or have the effect of personally threatening other users;
               DEPL reserves the right to terminate your use of Website, Products
               & Services or any related website for violating any of the
@@ -282,7 +282,7 @@ const Terms: React.FC = () => {
               Services and further agree that you will not transmit any
               information, data, text, files links, software, chats,
               communication or other materials that is abusive, invasive of
-              another's privacy, harassing, defamatory, vulgar, obscene,
+              another&apos;s privacy, harassing, defamatory, vulgar, obscene,
               unlawful, false, misleading, harmful, threatening, hateful, or
               racially or otherwise objectionable, including without limitation
               material of any kind or nature that encourages conduct that could
@@ -293,11 +293,11 @@ const Terms: React.FC = () => {
               edit or remove content that we determine at our sole discretion
               are unlawful, offensive, threatening, libellous, defamatory,
               pornographic, obscene or otherwise objectionable or violates any
-              party's Intellectual property or these Terms of Service. You may
-              not use our products for any illegal or unauthorised purpose nor
-              may you, in the use of the Website, Products & Services violate
-              any laws in your jurisdiction (Including but not limited to
-              copyright laws).
+              party&apos;s Intellectual property or these Terms of Service. You
+              may not use our products for any illegal or unauthorised purpose
+              nor may you, in the use of the Website, Products & Services
+              violate any laws in your jurisdiction (Including but not limited
+              to copyright laws).
             </div>
             <div className="terms-text">
               <div className="terms-text-heading"> 9. Communication</div>
@@ -384,11 +384,12 @@ const Terms: React.FC = () => {
               physical, procedural and technical security with respect to our
               offices and information storage facilities so as to prevent any
               loss, misuse, unauthorised access, disclosure or modification of
-              the user's personal information under our control. The company
-              also uses Secure Socket Layer (SSL) for authentication and private
-              communications in an effort to build users' trust and confidence
-              in the internet and website use by providing simple and secure
-              access and communication of credit card and personal information.
+              the user&apos;s personal information under our control. The
+              company also uses Secure Socket Layer (SSL) for authentication and
+              private communications in an effort to build users&apos;s trust
+              and confidence in the internet and website use by providing simple
+              and secure access and communication of credit card and personal
+              information.
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">13. Data LoSS</div>
@@ -400,12 +401,12 @@ const Terms: React.FC = () => {
               <div className="terms-text-heading">14. Indemnification</div>
               You agree to defend and indemnify DEPL and any of its affiliates
               (if applicable) and hold us harmless against any and all legal
-              claims and demands, including reasonable attorney's fee, which may
-              arise from or relate to your use or misuse of the Website,
-              Products & Services, your breach of these Terms of Services or
-              your conduct or actions. You agree that DEPL shall be able to
-              select its own legal counsel and may participate in its own
-              defence If it wishes so.
+              claims and demands, including reasonable attorney&apos;s fee,
+              which may arise from or relate to your use or misuse of the
+              Website, Products & Services, your breach of these Terms of
+              Services or your conduct or actions. You agree that DEPL shall be
+              able to select its own legal counsel and may participate in its
+              own defence If it wishes so.
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">15. Spam Policy</div>
@@ -504,7 +505,7 @@ const Terms: React.FC = () => {
               <div className="terms-text-heading">21. No Warranties</div>
               You agree that your use of the Website, Products & Services is at
               your sole and exclusive risk and that any of the Products or
-              services provided by us are on an "AS IS" basis. DEPL hereby
+              services provided by us are on an AS IS basis. DEPL hereby
               expressly disclaims any and all express or implied warranties of
               any kind. Including but not limited to the implied warranty of
               fitness for a particular purpose and the implied warranty of
@@ -518,38 +519,38 @@ const Terms: React.FC = () => {
               your use of the Website, Products & Services is your sole
               responsibility and that DEPL Is not liable for any such damage or
               loss. All Information, software, products, services and related
-              graphics provided on this site are "AS IS" and "AS AVAILABLE"
-              basis without warranty of any kind, either expressed or implied.
-              The Website, Products & Services disclaims all warranties,
-              expressed or implied including without limitation, all implied
-              warranties of merchantability, fitness for a particular purpose,
-              title and non-infringement or arising from a course of dealing,
-              usage, or trade practice. DEPL makes no representation whatsoever
-              about the suitability of the information, software, products, and
-              services contained on this Website for any purpose, and the
-              inclusion or offering of any products or services on this Website
-              does not constitute any endorsement or recommendation of such
-              products or services. DEPL makes no warranty that the use of the
-              Website, Products & Services will be uninterrupted, timely,
-              secure, without any defect or error-free. You expressly agree that
-              the use of these is at your own risk and evolution without any
-              coercion whatsoever. DEPL. shall not be responsible for any
-              content found on the Website. Your use of any information
-              materials on this website or otherwise obtained through the use of
-              this Website is entirely at your own risk, for which we shall not
-              be liable. It shall be your own responsibility to ensure that any
-              products, services or information available through this Website
-              meet your specific requirements. DEPL assumes no responsibility
-              for the accuracy, currency, completeness or usefulness of
-              information, views, opinions or advice in any material contained
-              on the Website, Products & Services. Any information of third
-              parties or advertisers is made available without making any
-              changes and so the Website cannot guarantee accuracy and is not
-              liable for any inconsistencies arising thereof. All postings,
-              messages, advertisements, photos, sounds, Images, texts, files,
-              videos or other materials posted on, transmitted through or linked
-              from the Website, are solely the responsibility of the person from
-              whom such content originated and DEPL does not control and is not
+              graphics provided on this site are AS IS and AS AVAILABLE basis
+              without warranty of any kind, either expressed or implied. The
+              Website, Products & Services disclaims all warranties, expressed
+              or implied including without limitation, all implied warranties of
+              merchantability, fitness for a particular purpose, title and
+              non-infringement or arising from a course of dealing, usage, or
+              trade practice. DEPL makes no representation whatsoever about the
+              suitability of the information, software, products, and services
+              contained on this Website for any purpose, and the inclusion or
+              offering of any products or services on this Website does not
+              constitute any endorsement or recommendation of such products or
+              services. DEPL makes no warranty that the use of the Website,
+              Products & Services will be uninterrupted, timely, secure, without
+              any defect or error-free. You expressly agree that the use of
+              these is at your own risk and evolution without any coercion
+              whatsoever. DEPL. shall not be responsible for any content found
+              on the Website. Your use of any information materials on this
+              website or otherwise obtained through the use of this Website is
+              entirely at your own risk, for which we shall not be liable. It
+              shall be your own responsibility to ensure that any products,
+              services or information available through this Website meet your
+              specific requirements. DEPL assumes no responsibility for the
+              accuracy, currency, completeness or usefulness of information,
+              views, opinions or advice in any material contained on the
+              Website, Products & Services. Any information of third parties or
+              advertisers is made available without making any changes and so
+              the Website cannot guarantee accuracy and is not liable for any
+              inconsistencies arising thereof. All postings, messages,
+              advertisements, photos, sounds, Images, texts, files, videos or
+              other materials posted on, transmitted through or linked from the
+              Website, are solely the responsibility of the person from whom
+              such content originated and DEPL does not control and is not
               responsible for content available on the Website. There may be
               instances when incorrect information is published inadvertently on
               our Website, Products or services such as typographical errors,
@@ -594,7 +595,7 @@ const Terms: React.FC = () => {
               of these Terms of Service or the Privacy Policy. You specifically
               agree that the Website is not responsible or liable for any
               threatening, defamatory, obscene, offensive or illegal content or
-              conduct of any other party or any infringement of another's
+              conduct of any other party or any infringement of another&apos;s
               rights, including intellectual property rights. You specifically
               agree that DEPL Is not responsible for any content sent using
               and/or included in the Website by any third party. DEPL has no
@@ -668,33 +669,33 @@ const Terms: React.FC = () => {
               Services. Therefore, you hereby grant and allow for DEPL the below
               listed worldwide, royalty-free and non-exclusive licenses, as
               applicable: The content submitted or made available for inclusion
-              on the publicly accessible areas of DEPL's sites, the license
+              on the publicly accessible areas of DEPL&apos;s sites, the license
               provided to permit to use, distribute, reproduce, modify, adapt,
               publicly perform and/or publicly display said Content on our
               network Services is for the sole purpose of providing and
               promoting the specific area to which this content was placed
               and/or made available for viewing. This license shall be available
-              so long as you are a member of DEPL's sites and shall terminate at
-              such time when you elect to discontinue your membership. Photos,
-              audio, video and/or graphics submitted or made available for
-              inclusion on the publicly accessible areas of Website, Products &
-              Services, the license provided to permit to use, di tribute,
-              reproduce, modify, adapt, publicly perform and/or publicly display
-              said Content on our network Services are for the sole purpose of
-              providing and promoting the specific area in which this content
-              was placed and/or made available for viewing. This license shall
-              be available so long as you are a member of our Website, Products
-              & Services, and sites and shall terminate at such time when you
-              elect to discontinue your membership. For any other content
-              submitted or made available for inclusion on the publicly
-              accessible areas of our Website, Products & Services, the
+              so long as you are a member of DEPL&apos;s sites and shall
+              terminate at such time when you elect to discontinue your
+              membership. Photos, audio, video and/or graphics submitted or made
+              available for inclusion on the publicly accessible areas of
+              Website, Products & Services, the license provided to permit to
+              use, di tribute, reproduce, modify, adapt, publicly perform and/or
+              publicly display said Content on our network Services are for the
+              sole purpose of providing and promoting the specific area in which
+              this content was placed and/or made available for viewing. This
+              license shall be available so long as you are a member of our
+              Website, Products & Services, and sites and shall terminate at
+              such time when you elect to discontinue your membership. For any
+              other content submitted or made available for inclusion on the
+              publicly accessible areas of our Website, Products & Services, the
               continuous, binding and complete license which is meant to permit
               to use, distribution, reprodúce, modification, adaption,
               publication, translation, publicly performance and/or publicly
               display of said content, whether in whole or in part, and the
               incorporation of any such Content into other works in any
               arrangement or medium current used or later developed. Those areas
-              which may be deemed "publicly accessible" areas of our Website,
+              which may be deemed publicly accessible areas of our Website,
               Products & Services, are those such areas of our network
               properties which are meant to be available to the general public,
               and which would include message boards and groups that are openly
@@ -708,17 +709,17 @@ const Terms: React.FC = () => {
               </div>
               DEPL provides an area for our users and members to contribute
               feedback to our website. When you submit ideas, documents,
-              suggestions and/or proposals ("Contributions") to our site, you
+              suggestions and/or proposals (Contributions) to our site, you
               acknowledge and agree that your Contributions do not contain any
               type of confidential or proprietary information DEPL shall not be
               liable or under any obligation to ensure or maintain
               confidentiality, expressed or implied, related to any
               Contributions. DEPL shall be entitled to make use of and/or
               disclose any such Contributions in any such manner as they may see
-              fit the contributor's Contributions shall automatically become the
-              sole property of DEPL and DEPL is under no obligation to either
-              compensate or provide any form of reimbursement in any manner or
-              nature.
+              fit the contributor&apos;s Contributions shall automatically
+              become the sole property of DEPL and DEPL is under no obligation
+              to either compensate or provide any form of reimbursement in any
+              manner or nature.
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">
@@ -732,26 +733,26 @@ const Terms: React.FC = () => {
               received by any member, the maximum volume or size of any email
               message that may be sent from or may be received by an account on
               our Service, the maximum disk space allowable that shall be
-              allocated on DEPL's servers on the member's behalf, and/or the
-              maximum number of times and/or duration that any member may access
-              our Services in a given period of time. In addition, you also
-              agree that DEPL has absolutely no responsibility or liability for
-              the removal or failure to maintain storage of any messages and/or
-              other communications or content maintained or transmitted by our
-              Services. You also herein acknowledge that we reserve the right to
-              delete or remove any account that is no longer active for an
-              extended period of time. Furthermore, DEPL shall reserve the right
-              to modify, alter and/or update these general practices and limits
-              at our discretion. Any messenger service, which may include any
-              web-based versions, shall allow you the individuals with whom you
-              communicate the ability to save your conversations in your account
-              located on our servers. In this manner, you will be able to access
-              and search your message history from any computer with internet
-              access. You also acknowledge that others have the option to use
-              and save conversations with you in their own personal account on
-              our Website. It is your agreement to these Terms of Service which
-              establishes your consent to allow DEPL to store any and all
-              communications on its servers.
+              allocated on DEPL&apos;s servers on the member&apos;s behalf,
+              and/or the maximum number of times and/or duration that any member
+              may access our Services in a given period of time. In addition,
+              you also agree that DEPL has absolutely no responsibility or
+              liability for the removal or failure to maintain storage of any
+              messages and/or other communications or content maintained or
+              transmitted by our Services. You also herein acknowledge that we
+              reserve the right to delete or remove any account that is no
+              longer active for an extended period of time. Furthermore, DEPL
+              shall reserve the right to modify, alter and/or update these
+              general practices and limits at our discretion. Any messenger
+              service, which may include any web-based versions, shall allow you
+              the individuals with whom you communicate the ability to save your
+              conversations in your account located on our servers. In this
+              manner, you will be able to access and search your message history
+              from any computer with internet access. You also acknowledge that
+              others have the option to use and save conversations with you in
+              their own personal account on our Website. It is your agreement to
+              these Terms of Service which establishes your consent to allow
+              DEPL to store any and all communications on its servers.
             </div>
             <div className="terms-text">
               <div className="terms-text-heading">
@@ -858,7 +859,7 @@ const Terms: React.FC = () => {
                 or of any other provision. If any provision of this Terms of
                 Service is held invalid or unenforceable by a court of law or
                 competent arbitrator, the parties nevertheless agree that the
-                court should endeavour to give effect to the parties' Intentions
+                court should endeavour to give effect to the parties Intentions
                 as reflected in the provision, and the other provisions of the
                 Terms of Service remain in full force and effect
               </div>
@@ -896,7 +897,6 @@ const Terms: React.FC = () => {
           </div>
         </div>
       </div>
-      {/* <Footer/> */}
     </div>
   );
 };
