@@ -1,5 +1,6 @@
 import Lottie from "lottie-react";
 import Image from "next/image";
+import "bootstrap/dist/css/bootstrap.min.css";
 import "./swipe.scss";
 interface SwipeProps {
   headingText: string;

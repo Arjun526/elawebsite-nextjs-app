@@ -4,6 +4,7 @@ import note from "../../assets/Books/note.svg";
 import bookDort from "../../assets/Books/books 2.svg";
 import Image from "next/image";
 import "./swiperInner.scss";
+import "bootstrap/dist/css/bootstrap.min.css";
 interface SwipeProps {
   headingText: string;
   subHeadings: string;

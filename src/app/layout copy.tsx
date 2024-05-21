@@ -7,10 +7,13 @@ import Navbar from "./components/Navbar/Navbar";
 import Link from "next/link";
 const inter = Inter({ subsets: ["latin"] });
 const Quicksands = Quicksand({ subsets: ["latin"], weight: ["300", "600"] });
-export const metadata: Metadata = {
-  title: "ELA",
-  description: "tulip",
-};
+// export const metadata: Metadata = {
+//   title: "ELASTIC",
+//   description: "tulip",
+//   icons: {
+//     icon: "../../public/favicon.ico",
+//   },
+// };
 
 export default function RootLayout({
   children,
@@ -19,6 +22,13 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
+      <head>
+        <title>ELASTCIC </title>
+        <meta name="description" content="tulip" />
+        <link rel="icon" href="/favicon.ico" type="image/x-icon" />
+
+        <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+      </head>
       <body className={`${inter.className} ${Quicksands.className}`}>
         <Navbar />
         {children}
