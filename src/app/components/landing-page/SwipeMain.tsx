@@ -53,7 +53,6 @@ const SwipeMain: React.FC = () => {
         pagination={{
           clickable: true,
         }}
-        clickable={true}
         cssMode={true}
         navigation={true}
         mousewheel={true}

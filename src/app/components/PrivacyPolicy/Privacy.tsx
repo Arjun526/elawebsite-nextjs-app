@@ -38,7 +38,7 @@ const Privacy = () => {
                   those affiliated with our commitment and realization of our
                   obligation not only to meet but to exceed most existing
                   privacy standards. THEREFORE, this Privacy Policy Agreement
-                  shall apply to Digitide Education Private Limited, and thus it
+                  shall apply to Digitize Education Private Limited, and thus it
                   shall govern any and all data collection and usage thereof.{" "}
                 </li>
                 <li>
@@ -95,7 +95,7 @@ const Privacy = () => {
                   may also receive information from external applications you
                   use to access our Website, Products & Services or we may
                   receive information through various web technologies, such as
-                  cookies, log files, clear gifs, web beacons and any others
+                  cookies, log files, clear gift web beacons and any others
                 </li>
               </ul>
             </div>
@@ -171,14 +171,14 @@ const Privacy = () => {
                   procedural and technical security with respect to our offices
                   and information storage facilities so as to prevent any loss,
                   misuse, unauthorized access, disclosure or modification of the
-                  user's personal information under our control.
+                  user&apos;s personal information under our control.
                 </li>
                 <li>
                   The company also uses a Secure Socket Layer (SSL) for
                   authentication and private communications in an effort to
-                  build users' trust and confidence in the Internet and website
-                  use by providing simple and secure access and communication of
-                  credit card and personal information.
+                  build user&apos;s trust and confidence in the Internet and
+                  website use by providing simple and secure access and
+                  communication of credit card and personal information.
                 </li>
               </ul>
             </div>

@@ -29,10 +29,10 @@ const Refund: React.FC = () => {
               experience possible. We believe in the quality of our content and
               are confident that you will find value in the course you have
               chosen. If you have any questions or concerns about your purchase,
-              please don't hesitate to reach out to us. We're here to help and
-              want to ensure that you have a positive experience with our
-              courses. Thank you for understanding. Additional non-returnable
-              items:
+              please don&apos;t hesitate to reach out to us. We&apos;re here to
+              help and want to ensure that you have a positive experience with
+              our courses. Thank you for understanding. Additional
+              non-returnable items:
             </div>
             <div className="refund-text">
               <div className="refund-heading">Gifted products</div>
@@ -56,7 +56,6 @@ const Refund: React.FC = () => {
           </div>
         </div>
       </div>
-      {/* <Footer /> */}
     </div>
   );
 };
