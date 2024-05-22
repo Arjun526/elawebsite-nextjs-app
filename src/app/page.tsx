@@ -7,6 +7,7 @@ import Lern from "./learning/Lern";
 import Trendings from "./Trending/Trendings";
 import Speaks from "./Speaks/Speaks";
 import Join from "./Join/Join";
+import Courses from "./course/Courses";
 
 export default function Home() {
   return (
@@ -14,6 +15,7 @@ export default function Home() {
       <Swiper />
       <Lern />
       <Topies />
+      <Courses />
       <Trendings />
       <Speaks />
       <Join />
