@@ -1,7 +1,9 @@
 "use client";
-import Privacy from "../components/PrivacyPolicy/Privacy";
+
+import NewPrivacy from "../components/PrivacyPolicy/NewPrivacy";
+
 const PrivacyPolicy = () => {
-  return <Privacy />;
+  return <NewPrivacy />;
 };
 
 export default PrivacyPolicy;
