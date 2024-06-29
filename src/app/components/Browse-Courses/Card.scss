@@ -10,9 +10,17 @@
   .card-skills {
     width: 300px;
     height: 280px;
-    background: #fcc04839;
     border-radius: 16px;
     text-align: start;
+    &.background-color-0 {
+      background-color: #fcc04864;
+    }
+    &.background-color-1 {
+      background-color: #288fc323;
+    }
+    &.background-color-2 {
+      background-color: #d23f504f;
+    }
     .skill-heading {
       font-family: "Urbane Rounded";
       font-weight: 300;
