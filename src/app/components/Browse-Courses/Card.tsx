@@ -21,25 +21,14 @@ const Card: React.FC<MyProps> = ({
   icons2,
   user2,
 }) => {
+  const backgroundColorClass = `background-color-${index}`;
   return (
     <div>
       <div id="main-card-section">
-        <div
-          className="card-skills"
-          style={{
-            backgroundColor:
-              index === 0 ? "" : index === 1 ? "#288fc323" : "#d23f504f",
-          }}
-        >
+        <div className={`card-skills ${backgroundColorClass}`}>
           <div className="skill-heading">{heading}</div>
           <div className="math-icon-sec">
-            <div
-              className="icons"
-              style={{
-                backgroundColor:
-                  index === 0 ? "" : index === 1 ? "#288FC3" : "#D23F4F",
-              }}
-            >
+            <div className="icons">
               <Image src={icons} alt="icon" />
             </div>
             <div className="math-text">
@@ -51,13 +40,7 @@ const Card: React.FC<MyProps> = ({
             </div>
           </div>
           <div className="math-icon-sec">
-            <div
-              className="icons"
-              style={{
-                backgroundColor:
-                  index === 0 ? "" : index === 1 ? "#288FC3" : "#D23F4F",
-              }}
-            >
+            <div className="icons">
               <Image src={icons2} alt="icon" />
             </div>
             <div className="math-text">

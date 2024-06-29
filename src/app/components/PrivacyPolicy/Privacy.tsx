@@ -100,26 +100,17 @@ const Privacy = () => {
               </ul>
             </div>
             <div className="text">
-              <div className="privacy-text-heading">
-                How we use information{" "}
-              </div>
+              <div className="privacy-text-heading">Use of Information </div>
+              <p>We use the information collected to:</p>
               <ul className="unordered-list">
                 <li>
-                  We use the Information gathered from you for the purpose of
-                  analytics and continuous improvement of our Website, Products
-                  & Services.{" "}
+                  Provide and improve our app&apos;s services and features.{" "}
                 </li>
+                <li>Ensure a safe and secure environment for children. </li>
+                <li>Respond to customer support requests and inquiries.</li>
                 <li>
-                  The information received through the usage of our Website,
-                  Products & Services, feedback, or through email communication
-                  is further used to improve your experience of all our products
-                  and services.{" "}
-                </li>
-                <li>
-                  We may also track certain passive information received to
-                  improve our marketing, and business analytics, and for this,
-                  we may need to work with third-party providers if and when we
-                  feel it is fit and necessary
+                  Conduct analytics and research to enhance the app&apos;s user
+                  experience
                 </li>
               </ul>
             </div>
@@ -146,6 +137,29 @@ const Privacy = () => {
                   time the information may be deleted partially or fully as
                   deemed fit at the given time.{" "}
                 </li>
+              </ul>
+            </div>
+            <div className="text">
+              <div className="privacy-text-heading">Data Security</div>
+              <p>
+                We implement industry-standard security measures to protect the
+                personal information of children. This includes encryption,
+                secure servers, and regular security audits to prevent
+                unauthorized access, use, or disclosure.
+              </p>
+              <div className="privacy-text-heading">
+                Parental Controls and Choices
+              </div>
+              <p>
+                Parents have the right to review, manage, and delete their
+                child&apos;s personal information. If you wish to exercise these
+                rights, please contact us at [contact information]. We provide
+                parental control mechanisms, such as:
+              </p>
+              <ul className="unordered-list">
+                <li>Blocking access to certain features.</li>
+                <li>Controlling in-app purchases.</li>
+                <li>Restricting data collection and sharing.</li>
               </ul>
             </div>
 
@@ -199,9 +213,9 @@ const Privacy = () => {
               use of any personally identifiable information on file, in a
               manner vastly different from that which was stated when this
               information was initially collected, the user or users shall be
-              promptly notified by email. Users at that time shall have the
-              option as to whether or not to permit the use of their information
-              in this separate manner.
+              promptly notified by email. Users / Parents at that time shall
+              have the option as to whether or not to permit the use of their
+              information in this separate manner.
             </div>
             <div className="text">
               <div className="privacy-text-heading">Acceptance of Terms</div>
