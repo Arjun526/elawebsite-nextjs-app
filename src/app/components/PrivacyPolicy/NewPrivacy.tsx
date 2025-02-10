@@ -518,29 +518,31 @@ const Privacy = () => {
               <br />
               <br />
               <table>
-                <tr>
-                  <th>Field</th>
-                  <th>Details</th>
-                </tr>
-                <tr>
-                  <td>Name</td>
-                  <td>Mr. Sateesh B</td>
-                </tr>
-                <tr>
-                  <td>Address</td>
-                  <td>7/2, Chandravarkar Layout, Bengaluru</td>
-                </tr>
-                <tr>
-                  <td>Email</td>
-                  <td>
-                    <Link
-                      href="https://mail.google.com"
-                      className="privacy-anchor"
-                    >
-                      support@elalearn.com
-                    </Link>
-                  </td>
-                </tr>
+                <tbody>
+                  <tr>
+                    <th>Field</th>
+                    <th>Details</th>
+                  </tr>
+                  <tr>
+                    <td>Name</td>
+                    <td>Mr. Sateesh B</td>
+                  </tr>
+                  <tr>
+                    <td>Address</td>
+                    <td>7/2, Chandravarkar Layout, Bengaluru</td>
+                  </tr>
+                  <tr>
+                    <td>Email</td>
+                    <td>
+                      <Link
+                        href="https://mail.google.com"
+                        className="privacy-anchor"
+                      >
+                        support@elalearn.com
+                      </Link>
+                    </td>
+                  </tr>
+                </tbody>
               </table>
               <br />
             </div>
