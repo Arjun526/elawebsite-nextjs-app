@@ -110,3 +110,7 @@ a {
   padding: 0;
   box-sizing: border-box;
 }
+
+nextjs-portal {
+  display: none;
+}
